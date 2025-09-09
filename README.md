@@ -50,7 +50,7 @@ streamlit run app.py
 ```
 
 
-##📌 Project Preview
+## 📌Project Preview
 <img width="1903" height="1015" alt="Screenshot 2025-09-09 175613" src="https://github.com/user-attachments/assets/785837cf-a41a-470c-a4f4-acc46d66bb91" />
 
 
